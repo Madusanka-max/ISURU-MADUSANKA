@@ -7,9 +7,18 @@
   "careerObjective": "To leverage my full-stack development skills and industry experience to build impactful, production-grade software in a collaborative engineering team, while continuously growing as a developer and contributing to meaningful projects.",
   "location": "Matale, Sri Lanka",
   "stats": [
-    { "label": "Experience", "value": "Industry Exp." },
-    { "label": "Completed", "value": "8+ Projects" },
-    { "label": "Community", "value": "DevRel Lead" }
+    {
+      "label": "Experience",
+      "value": "Industry Exp."
+    },
+    {
+      "label": "Completed",
+      "value": "8+ Projects"
+    },
+    {
+      "label": "Community",
+      "value": "DevRel Lead"
+    }
   ],
   "social": {
     "linkedin": "https://www.linkedin.com/in/Isuru-Madusanka-Rodrigo",

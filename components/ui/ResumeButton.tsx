@@ -35,7 +35,7 @@ export default function ResumeButton({
 
   return (
     <a
-      href="/resume.pdf"
+      href="/Isuru%20Madusanka%20Rodrigo%20CV.pdf"
       download="Isuru_Madusanka_Resume.pdf"
       id={id}
       className={cn(

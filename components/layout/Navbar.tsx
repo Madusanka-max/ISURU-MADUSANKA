@@ -86,7 +86,7 @@ export default function Navbar() {
 
             {/* Resume Button */}
             <a
-              href="/resume.pdf"
+              href="/public/Isuru Madusanka Rodrigo CV.pdf"
               download="Isuru_Madusanka_Resume.pdf"
               id="nav-resume-download"
               className="flex items-center gap-2 px-4 py-2 rounded-lg bg-gradient-to-r from-violet-600 to-blue-600 text-white text-sm font-medium hover:from-violet-500 hover:to-blue-500 transition-all duration-200 hover:shadow-lg hover:shadow-violet-500/25 hover:scale-105"
@@ -137,7 +137,7 @@ export default function Navbar() {
                 </Link>
               ))}
               <a
-                href="/resume.pdf"
+                href="/Isuru%20Madusanka%20Rodrigo%20CV.pdf"
                 download="Isuru_Madusanka_Resume.pdf"
                 className="flex items-center gap-2 px-4 py-3 mt-2 rounded-lg bg-gradient-to-r from-violet-600 to-blue-600 text-white text-sm font-medium"
               >
