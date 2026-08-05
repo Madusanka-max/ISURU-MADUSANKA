@@ -71,7 +71,7 @@
       "category": "blockchain",
       "featured": true,
       "github": "",
-      "image": "https://images.unsplash.com/photo-1576091160550-2173ff9e5eb2?auto=format&fit=crop&q=80&w=800",
+      "image": "/images/I.png",
       "caseStudy": {
         "problem": "Medical records systems are vulnerable to breaches, lack interoperability, and face regulatory issues.",
         "role": "Team Lead & Blockchain Analyst",
