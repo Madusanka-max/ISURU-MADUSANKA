@@ -1,0 +1,37 @@
+{
+  "education": [
+    {
+      "id": 1,
+      "degree": "BSc (Hons) in Information & Communication Technology",
+      "shortDegree": "B.Tech (ICT)",
+      "institution": "Rajarata University of Sri Lanka",
+      "shortInstitution": "Rajarata University",
+      "startYear": "2020",
+      "endYear": "2024",
+      "status": "Completed",
+      "description": "Studied Information and Communication Technology with focus on software engineering, web development, databases, and computer networks."
+    },
+    {
+      "id": 2,
+      "degree": "Diploma in Information Technology",
+      "shortDegree": "Diploma IT",
+      "institution": "NIBM Kandy",
+      "shortInstitution": "NIBM Kandy",
+      "startYear": "2018",
+      "endYear": "2020",
+      "status": "Completed",
+      "description": "Completed a comprehensive IT diploma covering programming fundamentals, networking, and web technologies."
+    },
+    {
+      "id": 3,
+      "degree": "GCE Advanced Level",
+      "shortDegree": "Advanced Level",
+      "institution": "St. Thomas' College",
+      "shortInstitution": "St. Thomas' College",
+      "startYear": "2017",
+      "endYear": "2019",
+      "status": "Completed",
+      "description": "Completed Advanced Level examinations."
+    }
+  ]
+}

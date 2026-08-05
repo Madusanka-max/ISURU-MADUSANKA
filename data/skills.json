@@ -1,0 +1,47 @@
+{
+  "categories": [
+    {
+      "name": "Frontend",
+      "skills": [
+        { "name": "HTML5 / CSS3", "level": "Advanced" },
+        { "name": "Tailwind CSS", "level": "Advanced" },
+        { "name": "Bootstrap", "level": "Intermediate" },
+        { "name": "JavaScript", "level": "Intermediate" },
+        { "name": "React", "level": "Intermediate" },
+        { "name": "Next.js", "level": "Beginner" }
+      ]
+    },
+    {
+      "name": "Backend",
+      "skills": [
+        { "name": "PHP", "level": "Intermediate" },
+        { "name": "Laravel", "level": "Intermediate" },
+        { "name": "Node.js", "level": "Beginner" },
+        { "name": "REST APIs", "level": "Intermediate" }
+      ]
+    },
+    {
+      "name": "Database",
+      "skills": [
+        { "name": "MySQL", "level": "Intermediate" },
+        { "name": "SQL", "level": "Intermediate" }
+      ]
+    },
+    {
+      "name": "AI / ML",
+      "skills": [
+        { "name": "OpenAI API", "level": "Beginner" },
+        { "name": "Prompt Engineering", "level": "Beginner" }
+      ]
+    },
+    {
+      "name": "Tools",
+      "skills": [
+        { "name": "Git & GitHub", "level": "Intermediate" },
+        { "name": "Postman", "level": "Intermediate" },
+        { "name": "VS Code", "level": "Advanced" },
+        { "name": "Figma", "level": "Beginner" }
+      ]
+    }
+  ]
+}

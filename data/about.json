@@ -1,0 +1,40 @@
+{
+  "name": "Isuru Madusanka Rodrigo",
+  "title": "Full-Stack Software Engineer",
+  "tagline": "Building clean, scalable web applications with real-world production experience.",
+  "summary": "I am a dedicated and forward-thinking Software Engineer with hands-on experience in full-stack web development, backend engineering, and UI/UX implementation. Currently completing my BSc (Hons) in Information & Communication Technology at Rajarata University of Sri Lanka, I have practical industry experience working on real production systems, including gaming platforms and large-scale booking applications.",
+  "detailedSummary": "During my internship at eSupport Technologies, I contributed to backend feature development, frontend refactoring, authentication systems, and database improvements using Laravel, PHP, JavaScript, and SQL. I value clean architecture, maintainable code, and disciplined engineering practices, and I am actively seeking opportunities to grow as a professional software engineer.",
+  "careerObjective": "To leverage my full-stack development skills and industry experience to build impactful, production-grade software in a collaborative engineering team, while continuously growing as a developer and contributing to meaningful projects.",
+  "location": "Matale, Sri Lanka",
+  "stats": [
+    { "label": "Experience", "value": "Industry Exp." },
+    { "label": "Completed", "value": "8+ Projects" },
+    { "label": "Community", "value": "DevRel Lead" }
+  ],
+  "social": {
+    "linkedin": "https://www.linkedin.com/in/Isuru-Madusanka-Rodrigo",
+    "github": "https://github.com/Madusanka-max",
+    "email": "isuru.rodrigo1243@gmail.com"
+  },
+  "resumeUrl": "/Isuru%20Madusanka%20Rodrigo%20CV.pdf",
+  "awards": [
+    {
+      "icon": "trophy",
+      "title": "Champion – Inter Faculty Volleyball",
+      "year": "2025",
+      "description": "Led the ICT Faculty team to victory."
+    },
+    {
+      "icon": "users",
+      "title": "DevRel Lead – FOSS Community RUSL",
+      "year": "2024",
+      "description": "Organized tech talks and mentored juniors."
+    },
+    {
+      "icon": "medal",
+      "title": "Chess Tournament – 2nd Runners-Up",
+      "year": "2023",
+      "description": "Secured team bronze at university finals."
+    }
+  ]
+}

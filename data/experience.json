@@ -1,0 +1,27 @@
+{
+  "experiences": [
+    {
+      "id": 1,
+      "role": "Intern Software Developer",
+      "company": "eSupport Technologies (Pvt) Ltd",
+      "location": "Sri Lanka",
+      "startDate": "May 2025",
+      "endDate": "November 2025",
+      "current": true,
+      "type": "Internship",
+      "responsibilities": [
+        "Contributed to development and enhancement of a Crash Game platform, including frontend UI improvements, betting logic fixes, and backend optimizations.",
+        "Implemented features for a Booking Platform, including admin authentication, property management, search filters, and partner dashboards.",
+        "Refactored Laravel controllers, migrations, Blade views, and JavaScript components to improve maintainability and performance.",
+        "Collaborated using Git, managing branches, resolving conflicts, and merging feature updates.",
+        "Assisted in debugging production issues and improving overall UI/UX quality."
+      ],
+      "technologies": ["Laravel", "PHP", "JavaScript", "MySQL", "Git", "Blade Templates", "Tailwind CSS", "REST APIs"],
+      "achievements": [
+        "Successfully delivered features for two production-grade platforms",
+        "Improved codebase maintainability through systematic refactoring",
+        "Gained hands-on experience with full production SDLC"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,252 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "slug": "esp32-cam-cctv",
+      "title": "ESP32-CAM CCTV System",
+      "description": "AI-based camera with YOLOv8, global live streaming, SD storage, and Flutter app.",
+      "tech": ["ESP32-CAM", "YOLOv8", "Flutter", "Arduino IDE", "MUX Streaming", "Dart"],
+      "category": "hardware",
+      "featured": true,
+      "github": "https://github.com/Madusanka-max/Intelligent-Indoor-OR-Outdoor-Surveillance-Camera-with-AI-Detection-and-Programmable-Relay-Control.git",
+      "image": "/images/esp32-setup.jpg",
+      "caseStudy": {
+        "problem": "Traditional CCTV systems lack AI capabilities and are expensive to scale globally.",
+        "role": "Lead Developer & Hardware Engineer",
+        "challenges": [
+          "Implementing YOLOv8 on resource-constrained ESP32",
+          "Achieving real-time streaming with minimal latency",
+          "Managing power consumption for 24/7 operation"
+        ],
+        "solutions": [
+          "Optimized YOLOv8 model for edge deployment",
+          "Used MUX for efficient video streaming",
+          "Implemented smart power management system"
+        ],
+        "learnings": [
+          "Edge AI optimization techniques",
+          "Real-time video streaming architecture",
+          "Hardware-software integration best practices"
+        ],
+        "images": ["esp32-setup.jpg", "mobile-app.jpg", "detection-demo.jpg"]
+      }
+    },
+    {
+      "id": 2,
+      "slug": "cinnamon-traceability",
+      "title": "Cinnamon Traceability Blockchain",
+      "description": "Blockchain-based system to trace cinnamon from cultivation to export using QR codes and Flutter app.",
+      "tech": ["Hyperledger Fabric", "Flutter", "Blockchain", "Dart", "QR Code"],
+      "category": "blockchain",
+      "featured": true,
+      "github": "",
+      "image": "/images/cinnamon-flow.jpg",
+      "caseStudy": {
+        "problem": "Lack of transparency and traceability in the cinnamon supply chain reduces trust in export quality.",
+        "role": "UI/UX Designer",
+        "challenges": [
+          "Mapping real-world supply chain to digital records",
+          "Ensuring stakeholder usability with minimal tech literacy",
+          "Generating real-time QR code tracking at every stage"
+        ],
+        "solutions": [
+          "Modeled all entities using Hyperledger Fabric smart contracts",
+          "Built a user-friendly mobile app with Flutter",
+          "Auto-generated QR codes for each batch and updated in real-time"
+        ],
+        "learnings": [
+          "Practical use of blockchain in agriculture",
+          "Stakeholder-centric design principles",
+          "Data consistency across multiple actors"
+        ],
+        "images": ["cinnamon-flow.jpg", "qr-scan.jpg", "mobile-dashboard.jpg"]
+      }
+    },
+    {
+      "id": 3,
+      "slug": "blockchain-medical-records",
+      "title": "Blockchain Medical Records System",
+      "description": "Research project comparing Ethereum, Corda, and Hyperledger for storing secure medical data.",
+      "tech": ["Ethereum", "Corda", "Hyperledger Fabric", "Blockchain Security"],
+      "category": "blockchain",
+      "featured": true,
+      "github": "",
+      "image": "https://images.unsplash.com/photo-1576091160550-2173ff9e5eb2?auto=format&fit=crop&q=80&w=800",
+      "caseStudy": {
+        "problem": "Medical records systems are vulnerable to breaches, lack interoperability, and face regulatory issues.",
+        "role": "Team Lead & Blockchain Analyst",
+        "challenges": [
+          "Evaluating compliance with GDPR/HIPAA",
+          "Analyzing scalability under patient load",
+          "Balancing decentralization with speed"
+        ],
+        "solutions": [
+          "Benchmarked 3 blockchain platforms for performance and security",
+          "Modeled healthcare workflows on-chain for comparison",
+          "Proposed best-fit architecture for Sri Lankan health records"
+        ],
+        "learnings": [
+          "Deep understanding of blockchain consensus models",
+          "Compliance requirements for health data",
+          "Interoperability in decentralized health systems"
+        ],
+        "images": ["blockchain-health.jpg", "platform-comparison.jpg", "architecture.png"]
+      }
+    },
+    {
+      "id": 4,
+      "slug": "vehicle-repair-center",
+      "title": "Vehicle Repair Center Website",
+      "description": "A booking and management platform for vehicle repair services with backend database integration.",
+      "tech": ["PHP", "SQL", "HTML", "CSS", "JavaScript"],
+      "category": "web",
+      "featured": false,
+      "github": "https://github.com/Madusanka-max/vehicle-repair-centers-website-using-PHP-HTML-CSS-JAVASCRIPT.git",
+      "image": "/images/repair-home.jpg",
+      "caseStudy": {
+        "problem": "Vehicle owners lacked a centralized, digital system to schedule repair services easily.",
+        "role": "Full Stack Developer",
+        "challenges": [
+          "Handling real-time booking availability",
+          "Designing for mobile and desktop users",
+          "Securing customer data and repair logs"
+        ],
+        "solutions": [
+          "Built dynamic forms and booking workflows using PHP and JS",
+          "Used SQL to manage appointments, customers, and mechanics",
+          "Responsive UI with CSS and Bootstrap"
+        ],
+        "learnings": [
+          "PHP and SQL integration for full-stack apps",
+          "User experience design for service apps",
+          "Database schema design for real-world operations"
+        ],
+        "images": ["repair-home.jpg", "service-form.jpg", "admin-panel.jpg"]
+      }
+    },
+    {
+      "id": 5,
+      "slug": "grocery-pos",
+      "title": "Grocery Shop Management System",
+      "description": "A POS system for managing inventory, sales, and customer tracking in local grocery shops.",
+      "tech": ["JavaFX", "SQL"],
+      "category": "desktop",
+      "featured": false,
+      "github": "https://github.com/Madusanka-max/GroceryShopManagementSystem.git",
+      "image": "/images/pos-ui.jpg",
+      "caseStudy": {
+        "problem": "Small retailers lacked a system to track inventory and generate sales reports efficiently.",
+        "role": "Desktop App Developer",
+        "challenges": [
+          "Designing an intuitive GUI for non-tech users",
+          "Ensuring accuracy in stock updates",
+          "Generating printable receipts and reports"
+        ],
+        "solutions": [
+          "Used JavaFX for desktop GUI interface",
+          "Connected to SQL database for live inventory control",
+          "Created custom PDF receipts and charts"
+        ],
+        "learnings": [
+          "Desktop UX principles for point-of-sale",
+          "Real-time DB sync in standalone apps",
+          "JavaFX layout and scene management"
+        ],
+        "images": ["pos-ui.jpg", "inventory-table.jpg", "sales-report.jpg"]
+      }
+    },
+    {
+      "id": 6,
+      "slug": "library-management",
+      "title": "Library Management System",
+      "description": "A command-line system for handling book lending, returning, and catalog tracking.",
+      "tech": ["C", "File Handling"],
+      "category": "cli",
+      "featured": false,
+      "github": "https://github.com/Madusanka-max/library-management-system-in-C.git",
+      "image": "/images/cli-ui.jpg",
+      "caseStudy": {
+        "problem": "Libraries lacked a digital system for managing lending and return operations.",
+        "role": "Systems Programmer",
+        "challenges": [
+          "Implementing structured file storage",
+          "Building a user menu with basic terminal tools",
+          "Preventing data loss on crashes"
+        ],
+        "solutions": [
+          "Used structured C programs with file read/write operations",
+          "Created interactive menu-driven app",
+          "Backup and restore logic built using text dumps"
+        ],
+        "learnings": [
+          "File handling and struct usage in C",
+          "Building maintainable console-based tools",
+          "Error handling without databases"
+        ],
+        "images": ["cli-ui.jpg", "Menu.jpg", "book-menu.jpg"]
+      }
+    },
+    {
+      "id": 7,
+      "slug": "healthy-farm-crops",
+      "title": "Healthy Farm Crops Website",
+      "description": "Marketplace web app connecting local farmers with consumers for direct sales.",
+      "tech": ["PHP", "HTML", "CSS", "JavaScript"],
+      "category": "web",
+      "featured": false,
+      "github": "https://github.com/Madusanka-max/HEALTHY-FARM-CROPS-Website-Using-PHP-HTML-CSS-JavaScript-SQL.git",
+      "image": "/images/farm-landing.jpg",
+      "caseStudy": {
+        "problem": "Farmers couldn't easily connect with local buyers or list available produce online.",
+        "role": "Full Stack Developer",
+        "challenges": [
+          "Making listings editable by farmers with little tech experience",
+          "Handling product availability in real-time",
+          "Mobile-friendly design for rural users"
+        ],
+        "solutions": [
+          "PHP and JavaScript for listing forms and validation",
+          "SQL backend with category-based filtering",
+          "Used Bootstrap + CSS for mobile-responsiveness"
+        ],
+        "learnings": [
+          "Building CRUD systems in PHP",
+          "Accessibility for underserved communities",
+          "Frontend/backend separation for low-bandwidth use"
+        ],
+        "images": ["farm-landing.jpg", "product-list.jpg", "seller-dashboard.jpg"]
+      }
+    },
+    {
+      "id": 8,
+      "slug": "extru-exhibition",
+      "title": "EXTRU Exhibition Website",
+      "description": "Official website for Rajarata University's EXTRU Exhibition, highlighting events, projects, and schedules.",
+      "tech": ["HTML", "CSS", "JavaScript"],
+      "category": "web",
+      "featured": false,
+      "github": "https://github.com/samaraEdirisooriya/Extrue-2025-website-.git",
+      "image": "/images/extru-home.jpg",
+      "caseStudy": {
+        "problem": "No centralized online hub for attendees and project presenters during the exhibition.",
+        "role": "Front-End Web Designer",
+        "challenges": [
+          "Creating a visually engaging layout in a short deadline",
+          "Embedding a responsive event schedule",
+          "Keeping navigation simple for mobile users"
+        ],
+        "solutions": [
+          "Built static site using semantic HTML and responsive CSS",
+          "Added JS-based schedule toggles and countdowns",
+          "Deployed via GitHub Pages for ease of access"
+        ],
+        "learnings": [
+          "Rapid frontend prototyping",
+          "Optimizing for public university audiences",
+          "Cross-device UI testing"
+        ],
+        "images": ["extru-home.jpg", "schedule.jpg", "gallery.jpg"]
+      }
+    }
+  ]
+}
