@@ -7,7 +7,7 @@
       "location": "Sri Lanka",
       "startDate": "May 2025",
       "endDate": "November 2025",
-      "current": true,
+      "current": false,
       "type": "Internship",
       "responsibilities": [
         "Contributed to development and enhancement of a Crash Game platform, including frontend UI improvements, betting logic fixes, and backend optimizations.",
@@ -16,11 +16,43 @@
         "Collaborated using Git, managing branches, resolving conflicts, and merging feature updates.",
         "Assisted in debugging production issues and improving overall UI/UX quality."
       ],
-      "technologies": ["Laravel", "PHP", "JavaScript", "MySQL", "Git", "Blade Templates", "Tailwind CSS", "REST APIs"],
+      "technologies": [
+        "Laravel",
+        "PHP",
+        "JavaScript",
+        "MySQL",
+        "Git",
+        "Blade Templates",
+        "Tailwind CSS",
+        "REST APIs"
+      ],
       "achievements": [
         "Successfully delivered features for two production-grade platforms",
         "Improved codebase maintainability through systematic refactoring",
         "Gained hands-on experience with full production SDLC"
+      ]
+    },
+    {
+      "id": 2,
+      "role": "Freelance Video Editor",
+      "company": "Traveller Ananda Rodrigo (YouTube Channel)",
+      "location": "Remote",
+      "startDate": "December 2025",
+      "endDate": "Present",
+      "current": true,
+      "type": "Freelance",
+      "responsibilities": [
+        "Edited and polished YouTube videos for the channel, managing cutting, pacing, transitions, and audio clean-up.",
+        "Performed color adjustments and designed engaging thumbnails to improve click-through rates and viewer engagement.",
+        "Improved overall content quality and visual flow, ensuring videos aligned with the creator's publishing routines and brand guidelines."
+      ],
+      "technologies": [
+        "CapCut",
+        "Canva"
+      ],
+      "achievements": [
+        "Enhanced click-through rates and engagement through targeted thumbnail design",
+        "Consistently maintained channel brand standards and upload routines"
       ]
     }
   ]
