@@ -12,8 +12,8 @@ interface FeaturedProjectsProps {
 }
 
 export default function FeaturedProjects({ projects }: FeaturedProjectsProps) {
-  // Only take the first 3 featured projects
-  const featured = projects.filter((p) => p.featured).slice(0, 3);
+  // Only take the last 3 featured projects
+  const featured = projects.filter((p) => p.featured).slice(-3);
 
   return (
     <section className="relative max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-24">
