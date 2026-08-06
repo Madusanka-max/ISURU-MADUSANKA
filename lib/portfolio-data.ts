@@ -52,14 +52,14 @@ export function buildPortfolioContext(): string {
   const projectsList = projects.projects
     .map(
       (p) =>
-        `- ${p.title}: ${p.description} | Tech: ${p.tech.join(", ")} | Features: ${p.features.join(", ")} | GitHub: ${p.github || "Private"} | Live: ${p.live || "N/A"}`
+        `- ${p.title}: ${p.description} | Tech: ${p.tech?.join(", ") || "N/A"} | Features: ${p.features?.join(", ") || "N/A"} | GitHub: ${p.github || "Private"} | Live: ${p.live || "N/A"}`
     )
     .join("\n");
 
   const experienceList = experience.experiences
     .map(
       (e) =>
-        `- ${e.role} at ${e.company} (${e.startDate} – ${e.endDate})\n  Responsibilities: ${e.responsibilities.join("; ")}\n  Technologies: ${e.technologies.join(", ")}\n  Achievements: ${e.achievements.join("; ")}`
+        `- ${e.role} at ${e.company} (${e.startDate} – ${e.endDate})\n  Responsibilities: ${e.responsibilities?.join("; ") || "N/A"}\n  Technologies: ${e.technologies?.join(", ") || "N/A"}\n  Achievements: ${e.achievements?.join("; ") || "N/A"}`
     )
     .join("\n");
 
