@@ -51,8 +51,8 @@ export default function Navbar() {
                 <Image
                   src="/images/I.png"
                   alt="Isuru Madusanka"
-                  width={32}
-                  height={32}
+                  width={20}
+                  height={20}
                   className="w-full h-full object-cover invert"
                   priority
                 />
