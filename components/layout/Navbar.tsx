@@ -4,6 +4,7 @@ import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { useState, useEffect } from "react";
 import { Menu, X, Sun, Moon, Download, Code2 } from "lucide-react";
+import Image from "next/image";
 import { useTheme } from "@/hooks/useTheme";
 import { cn } from "@/lib/utils";
 
@@ -46,7 +47,16 @@ export default function Navbar() {
           {/* Logo */}
           <Link href="/" className="flex items-center gap-2 group" id="nav-logo">
             <div className="w-8 h-8 rounded-lg bg-gradient-to-br from-violet-500 to-blue-600 flex items-center justify-center group-hover:scale-110 transition-transform duration-200">
-              <span className="font-bold text-lg text-white">I</span>
+              <span className="font-bold text-lg text-white">
+                <Image
+                  src="/images/I.png"
+                  alt="Isuru Madusanka"
+                  width={32}
+                  height={32}
+                  className="w-full h-full object-cover invert"
+                  priority
+                />
+              </span>
             </div>
             <span className="font-bold text-lg gradient-text">Isuru Madusanka Rodrigo</span>
           </Link>
