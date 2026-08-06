@@ -5,7 +5,14 @@
       "slug": "esp32-cam-cctv",
       "title": "ESP32-CAM CCTV System",
       "description": "AI-based camera with YOLOv8, global live streaming, SD storage, and Flutter app.",
-      "tech": ["ESP32-CAM", "YOLOv8", "Flutter", "Arduino IDE", "MUX Streaming", "Dart"],
+      "tech": [
+        "ESP32-CAM",
+        "YOLOv8",
+        "Flutter",
+        "Arduino IDE",
+        "MUX Streaming",
+        "Dart"
+      ],
       "category": "hardware",
       "featured": true,
       "github": "https://github.com/Madusanka-max/Intelligent-Indoor-OR-Outdoor-Surveillance-Camera-with-AI-Detection-and-Programmable-Relay-Control.git",
@@ -28,7 +35,11 @@
           "Real-time video streaming architecture",
           "Hardware-software integration best practices"
         ],
-        "images": ["esp32-setup.jpg", "mobile-app.jpg", "detection-demo.jpg"]
+        "images": [
+          "esp32-setup.jpg",
+          "mobile-app.jpg",
+          "detection-demo.jpg"
+        ]
       }
     },
     {
@@ -36,7 +47,13 @@
       "slug": "cinnamon-traceability",
       "title": "Cinnamon Traceability Blockchain",
       "description": "Blockchain-based system to trace cinnamon from cultivation to export using QR codes and Flutter app.",
-      "tech": ["Hyperledger Fabric", "Flutter", "Blockchain", "Dart", "QR Code"],
+      "tech": [
+        "Hyperledger Fabric",
+        "Flutter",
+        "Blockchain",
+        "Dart",
+        "QR Code"
+      ],
       "category": "blockchain",
       "featured": true,
       "github": "",
@@ -59,7 +76,11 @@
           "Stakeholder-centric design principles",
           "Data consistency across multiple actors"
         ],
-        "images": ["cinnamon-flow.jpg", "qr-scan.jpg", "mobile-dashboard.jpg"]
+        "images": [
+          "cinnamon-flow.jpg",
+          "qr-scan.jpg",
+          "mobile-dashboard.jpg"
+        ]
       }
     },
     {
@@ -67,7 +88,12 @@
       "slug": "blockchain-medical-records",
       "title": "Blockchain Medical Records System",
       "description": "Research project comparing Ethereum, Corda, and Hyperledger for storing secure medical data.",
-      "tech": ["Ethereum", "Corda", "Hyperledger Fabric", "Blockchain Security"],
+      "tech": [
+        "Ethereum",
+        "Corda",
+        "Hyperledger Fabric",
+        "Blockchain Security"
+      ],
       "category": "blockchain",
       "featured": true,
       "github": "",
@@ -90,7 +116,11 @@
           "Compliance requirements for health data",
           "Interoperability in decentralized health systems"
         ],
-        "images": ["blockchain-health.jpg", "platform-comparison.jpg", "architecture.png"]
+        "images": [
+          "blockchain-health.jpg",
+          "platform-comparison.jpg",
+          "architecture.png"
+        ]
       }
     },
     {
@@ -98,7 +128,13 @@
       "slug": "vehicle-repair-center",
       "title": "Vehicle Repair Center Website",
       "description": "A booking and management platform for vehicle repair services with backend database integration.",
-      "tech": ["PHP", "SQL", "HTML", "CSS", "JavaScript"],
+      "tech": [
+        "PHP",
+        "SQL",
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
       "category": "web",
       "featured": false,
       "github": "https://github.com/Madusanka-max/vehicle-repair-centers-website-using-PHP-HTML-CSS-JAVASCRIPT.git",
@@ -121,7 +157,11 @@
           "User experience design for service apps",
           "Database schema design for real-world operations"
         ],
-        "images": ["repair-home.jpg", "service-form.jpg", "admin-panel.jpg"]
+        "images": [
+          "repair-home.jpg",
+          "service-form.jpg",
+          "admin-panel.jpg"
+        ]
       }
     },
     {
@@ -129,7 +169,10 @@
       "slug": "grocery-pos",
       "title": "Grocery Shop Management System",
       "description": "A POS system for managing inventory, sales, and customer tracking in local grocery shops.",
-      "tech": ["JavaFX", "SQL"],
+      "tech": [
+        "JavaFX",
+        "SQL"
+      ],
       "category": "desktop",
       "featured": false,
       "github": "https://github.com/Madusanka-max/GroceryShopManagementSystem.git",
@@ -152,7 +195,11 @@
           "Real-time DB sync in standalone apps",
           "JavaFX layout and scene management"
         ],
-        "images": ["pos-ui.jpg", "inventory-table.jpg", "sales-report.jpg"]
+        "images": [
+          "pos-ui.jpg",
+          "inventory-table.jpg",
+          "sales-report.jpg"
+        ]
       }
     },
     {
@@ -160,7 +207,10 @@
       "slug": "library-management",
       "title": "Library Management System",
       "description": "A command-line system for handling book lending, returning, and catalog tracking.",
-      "tech": ["C", "File Handling"],
+      "tech": [
+        "C",
+        "File Handling"
+      ],
       "category": "cli",
       "featured": false,
       "github": "https://github.com/Madusanka-max/library-management-system-in-C.git",
@@ -183,7 +233,11 @@
           "Building maintainable console-based tools",
           "Error handling without databases"
         ],
-        "images": ["cli-ui.jpg", "Menu.jpg", "book-menu.jpg"]
+        "images": [
+          "cli-ui.jpg",
+          "Menu.jpg",
+          "book-menu.jpg"
+        ]
       }
     },
     {
@@ -191,7 +245,12 @@
       "slug": "healthy-farm-crops",
       "title": "Healthy Farm Crops Website",
       "description": "Marketplace web app connecting local farmers with consumers for direct sales.",
-      "tech": ["PHP", "HTML", "CSS", "JavaScript"],
+      "tech": [
+        "PHP",
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
       "category": "web",
       "featured": false,
       "github": "https://github.com/Madusanka-max/HEALTHY-FARM-CROPS-Website-Using-PHP-HTML-CSS-JavaScript-SQL.git",
@@ -214,7 +273,11 @@
           "Accessibility for underserved communities",
           "Frontend/backend separation for low-bandwidth use"
         ],
-        "images": ["farm-landing.jpg", "product-list.jpg", "seller-dashboard.jpg"]
+        "images": [
+          "farm-landing.jpg",
+          "product-list.jpg",
+          "seller-dashboard.jpg"
+        ]
       }
     },
     {
@@ -222,7 +285,11 @@
       "slug": "extru-exhibition",
       "title": "EXTRU Exhibition Website",
       "description": "Official website for Rajarata University's EXTRU Exhibition, highlighting events, projects, and schedules.",
-      "tech": ["HTML", "CSS", "JavaScript"],
+      "tech": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
       "category": "web",
       "featured": false,
       "github": "https://github.com/samaraEdirisooriya/Extrue-2025-website-.git",
@@ -245,7 +312,94 @@
           "Optimizing for public university audiences",
           "Cross-device UI testing"
         ],
-        "images": ["extru-home.jpg", "schedule.jpg", "gallery.jpg"]
+        "images": [
+          "extru-home.jpg",
+          "schedule.jpg",
+          "gallery.jpg"
+        ]
+      }
+    },
+    {
+      "id": 9,
+      "slug": "traveller-ananda-rodrigo",
+      "title": "Traveller Ananda Rodrigo Platform",
+      "description": "An immersive personal portfolio and storytelling platform featuring bilingual support, dynamic YouTube stats, and interactive Leaflet maps.",
+      "tech": [
+        "Next.js 14",
+        "Tailwind CSS",
+        "Framer Motion",
+        "React Leaflet",
+        "YouTube Data API",
+        "EmailJS"
+      ],
+      "category": "web",
+      "featured": true,
+      "github": "",
+      "image": "/images/ananda-home.png",
+      "caseStudy": {
+        "problem": "Need for a dynamic, bilingual platform to showcase village life storytelling, live YouTube metrics, and interactive map locations.",
+        "role": "Full Stack Developer & UI/UX Designer",
+        "challenges": [
+          "Handling YouTube API rate limits and rounded numbers with scraper fallbacks",
+          "Synchronizing bilingual content across dynamic React components",
+          "Integrating interactive Leaflet maps seamlessly into Next.js App Router"
+        ],
+        "solutions": [
+          "Built smart fallback scraping for exact subscriber counts when API rounds figures",
+          "Centralized Sinhala/English state in a global LanguageContext and lib/content.js",
+          "Integrated React Leaflet with custom dynamic map markers and video popups"
+        ],
+        "learnings": [
+          "Server/Client Component management in Next.js 14",
+          "API fallback strategies and web scraping",
+          "Custom map integration and localization patterns"
+        ],
+        "images": [
+          "ananda-home.jpg",
+          "interactive-map.jpg",
+          "bilingual-ui.jpg"
+        ]
+      }
+    },
+    {
+      "id": 10,
+      "slug": "alo-bot",
+      "title": "ALO-BOT (Albion Online Vision Tool)",
+      "description": "Computer vision automation tool using YOLO object detection to identify in-game resources and log real-time screen telemetry.",
+      "tech": [
+        "Python",
+        "YOLO",
+        "PyTorch",
+        "OpenCV",
+        "CUDA"
+      ],
+      "category": "ai",
+      "featured": false,
+      "github": "",
+      "image": "/images/alo-bot.png",
+      "caseStudy": {
+        "problem": "Tracking and identifying scattered in-game resource spawns across dynamic environments in real time.",
+        "role": "Lead Developer & AI Engineer",
+        "challenges": [
+          "Training custom YOLO models to accurately detect multi-class game assets under varied lighting",
+          "Achieving low-latency visual inference on live screen feeds using GPU acceleration",
+          "Structuring coordinate mapping between detection bounding boxes and screen inputs"
+        ],
+        "solutions": [
+          "Annotated and trained a custom dataset covering 10 distinct entity classes via Roboflow",
+          "Built a modular 3-tier Python architecture (Bot loop, Resource Logger, Visualizer)",
+          "Integrated CUDA-accelerated PyTorch for real-time frame evaluation"
+        ],
+        "learnings": [
+          "Custom YOLO model fine-tuning for dynamic game UI elements",
+          "High-throughput real-time screen capture and image processing",
+          "Handling asynchronous input events and detection telemetry logging"
+        ],
+        "images": [
+          "alo-bot.jpg",
+          "detection-demo.jpg",
+          "telemetry-log.jpg"
+        ]
       }
     }
   ]

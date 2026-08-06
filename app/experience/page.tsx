@@ -12,10 +12,10 @@ export default function ExperiencePage() {
 
   return (
     <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-24 min-h-screen">
-      <SectionHeader 
-        subtitle="My Journey" 
-        title="Professional Experience" 
-        description="A timeline of my professional roles and industry experience. I have worked on production-grade systems, collaborating with teams to deliver high-quality software solutions."
+      <SectionHeader
+        subtitle="My Journey"
+        title="Professional Experience"
+        description="A timeline of my professional roles and industry experience. I have worked on production - grade systems, collaborating with teams to deliver high-quality software solutions."
         centered
       />
 
