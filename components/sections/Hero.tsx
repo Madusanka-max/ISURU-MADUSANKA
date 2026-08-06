@@ -58,7 +58,6 @@ export default function Hero({ about }: HeroProps) {
             transition={{ duration: 0.5, delay: 0.05 }}
             className="inline-flex items-center gap-2 px-4 py-2 rounded-full border border-violet-500/30 bg-violet-500/10 text-violet-300 text-sm font-medium mb-8"
           >
-            <Sparkles className="w-4 h-4" />
             Open to full-time roles & freelance projects
           </motion.div>
 

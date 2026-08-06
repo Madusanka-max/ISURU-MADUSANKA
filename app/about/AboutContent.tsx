@@ -228,11 +228,11 @@ export default function AboutContent({ about, education, experience, skills }: P
             })}
           </div>
           {/* Legend */}
-          <div className="mt-5 flex flex-wrap gap-3 text-xs">
+          {/* <div className="mt-5 flex flex-wrap gap-3 text-xs">
             {Object.entries(levelColor).map(([lvl, cls]) => (
               <span key={lvl} className={`px-2.5 py-1 rounded-lg border font-medium ${cls}`}>{lvl}</span>
             ))}
-          </div>
+          </div> */}
         </motion.div>
 
         {/* ── Experience ── */}
